@@ -1,4 +1,4 @@
-![Cecil JS on show](cecil.jpg)
+![Cecil JS on show](/cecil.jpg)
 
 
 

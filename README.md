@@ -1,4 +1,4 @@
-![Cecil JS on show](https://github.com/CecilJS/CecilJS/blob/main/Ceciljs/cecil.jpg)
+![Cecil JS on show](https://github.com/CecilJS/CecilJS/blob/main/Cecil.jpg?raw=true)
 
 
 

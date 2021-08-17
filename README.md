@@ -14,7 +14,7 @@
 
   "lastName": "JS",
 
-  "location": 125.11.124.8,
+  "location": "Home",
 
   "fieldOfResearch": {
                         "programmingLanguages": ["Python", "Java", "JavaScript", "TypeScript", "C#", "PHP"],

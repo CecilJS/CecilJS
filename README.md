@@ -42,9 +42,9 @@
                                               "HDBMS"],
                         
                                "algorithms":  ["Dijkstra's Algorithm", 
-                                                "DFS", "BFS", "Minimax", 
-                                                "Bellman-Ford's Algorithm", 
-                                                "Many More Algorithms"]
+                                               "DFS", "BFS", "Minimax", 
+                                               "Bellman-Ford's Algorithm", 
+                                               "Many More Algorithms"]
                         },
 
 "jobTitle": "Software Engineer",

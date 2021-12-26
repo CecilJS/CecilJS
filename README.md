@@ -20,8 +20,8 @@
                         "programmingLanguages": ["Python", 
                                                 "Java", 
                                                 "JavaScript", 
-                                                "TypeScript", "
-                                                C#", 
+                                                "TypeScript", 
+                                                "C#", 
                                                 "PHP"],
                         
                                 "frameworks":  ["Flusk", 

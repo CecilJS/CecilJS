@@ -8,44 +8,6 @@
 
 ## A SOFTWARE ENGINEER WITH A KEEN INTEREST IN WHAT HAPPENS UNDER THE HOOD
 
-```json
-{
-  "firstName": "Cecil",
-
-  "lastName": "JS",
-
-  "location": "Home",
-
-  "fieldOfResearch": {
-                        "programmingLanguages": ["Python", 
-                                                "Java", 
-                                                "JavaScript", 
-                                                "TypeScript", 
-                                                "C#", 
-                                                "PHP"],
-                        
-                                "frameworks":  ["Flusk", 
-                                                "Spring", 
-                                                "React", 
-                                                "Vue", 
-                                                "Angular", 
-                                                ".Net", 
-                                                "Electron"],
-                       
-                               "paradigms":   ["Functional programming", 
-                                              "Object-oriented programming", 
-                                              "Imperative/Procedural programming"],
-                        
-                                "databases":  ["RDBMS", 
-                                              "NDBMS", 
-                                              "OODBMS", 
-                                              "HDBMS"],
-                        
-                               "algorithms":  ["Dijkstra's Algorithm", 
-                                               "DFS", "BFS", "Minimax", 
-                                               "Bellman-Ford's Algorithm", 
-                                               "Many More Algorithms"]
-                        },
 
 "jobTitle": "Software Engineer",
 "goals": ["Contribute more to open source projects", 

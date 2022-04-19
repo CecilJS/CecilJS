@@ -6,4 +6,4 @@
 
 
 
-## A SOFTWARE ENGINEER WITH A KEEN INTEREST IN WHAT HAPPENS UNDER THE HOOD
+## I love building cool stuff.
